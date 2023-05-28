@@ -1,0 +1,1 @@
+Rust beginner attempts to learn Rust with a rewrite of [BasketballGM](https://github.com/zengm-games/zengm/). No infringement of copyright or intellectual property is intended.
